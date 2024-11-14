@@ -40,7 +40,7 @@ Each one has written a short reflection on what they learned through this projec
 Contact
 For any questions, please contact the team members individually through the GitHub repository.
 For any questions, feel free to reach out to the team members via email:
-1.bt23ece081@iiitn.ac.in<br>
-2.bt23ece089@iiitn.ac.in<br>
-3.bt23ece090@iiitn.ac.in<br>
-4.bt23ece094q@iiitn.ac.in
+1.bt23ece081@iiitn.ac.in
+2.bt23ece089@iiitn.ac.in
+3.bt23ece090@iiitn.ac.in
+4.bt23ece094@iiitn.ac.in
