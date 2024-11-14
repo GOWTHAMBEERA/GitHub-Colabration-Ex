@@ -1,2 +1,2 @@
-# GitHub-Colabration-Ex
+# GitHub-Collabration-Ex
 Lab Evu
